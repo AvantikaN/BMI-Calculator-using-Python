@@ -23,7 +23,7 @@ looks simplified and easy to read.
 Without round function, the result appeared is 20.061728395061728 and after applying the round function
 the result appeared is 20.1.
 
-2. bmi_index(bmi)
+3. bmi_index(bmi)
 We have called the bmi_index() function to compare the BMI value with the BMI categories.
 bmi_index():
 In this function, the final result displayed depending upon the BMI value & BMI category it
@@ -35,3 +35,6 @@ Overweight = 25–29.9
 Obesity = BMI of 30 or greater
 
 ![image](https://github.com/AvantikaN/BMI-Calculator-using-Python/assets/99970466/d88a9995-828e-4ca0-94a2-7c42c0218f3e)
+
+![image](https://github.com/AvantikaN/BMI-Calculator-using-Python/assets/99970466/4fcf8e19-c4ad-4769-986c-8e61bc9f25d6)
+
